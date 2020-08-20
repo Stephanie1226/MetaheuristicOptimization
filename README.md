@@ -1,4 +1,4 @@
-# MetaheuristicOptimization
+# Metaheuristic Optimization
 
 ## Description
 - In Function Optimization folder:
