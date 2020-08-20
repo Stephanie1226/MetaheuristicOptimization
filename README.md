@@ -11,5 +11,5 @@
 Example: for a loop of length four, the itinerary might look as follows [1, 2, 3, 4]. But, in reality, the class calculates the length with return to 1.
 2. RandomSearch.py: Implemented a random search for the problem.
 3. ExhaustiveSearch.py: Implemented a Exhaustive search for the problem.
-4. GeneticAlgorithm.py: Implemented a Genetic algorithm for the problem.
-5. DifferentialEvolution.py: Implemented a Differential Evolution algorithm for the problem.
+4. GeneticAlg.py: Implemented a Genetic algorithm for the problem.
+5. DifferentialAlg.py: Implemented a Differential Evolution algorithm for the problem.
