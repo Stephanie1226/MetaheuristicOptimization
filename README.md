@@ -9,4 +9,7 @@
 - In TSP problems:
 1. main.py: **Travel in a loop:** The salesman travels in a loop. A loop of length X refers to a tour of X cities, where the salesman returns to the original city after visiting the last (a closed loop).
 Example: for a loop of length four, the itinerary might look as follows [1, 2, 3, 4]. But, in reality, the class calculates the length with return to 1.
-2. 
+2. RandomSearch.py: Implemented a random search for the problem.
+3. ExhaustiveSearch.py: Implemented a Exhaustive search for the problem.
+4. GeneticAlgorithm.py: Implemented a Genetic algorithm for the problem.
+5. DifferentialEvolution.py: Implemented a Differential Evolution algorithm for the problem.
